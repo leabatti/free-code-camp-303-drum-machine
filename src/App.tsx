@@ -1,5 +1,5 @@
-import { useState } from "react";
 import "./App.css";
+import { AudioClip } from "./types";
 import Drum from "./Drum";
 
 const audioClips: AudioClip[] = [
